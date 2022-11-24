@@ -1,0 +1,4 @@
+Tool for managing Raspberry Pi
+
+curl -s -S -L  https://github.com/Edsonytic/piTool/piToolSetup.sh
+ | sh
