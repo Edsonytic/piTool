@@ -1,3 +1,6 @@
 Tool for managing Raspberry Pi
 
+To install run the following command in your terminal:
+```sh
 curl -s -S -L  https://raw.githubusercontent.com/Edsonytic/piTool/main/piToolSetup.sh | sh
+```
