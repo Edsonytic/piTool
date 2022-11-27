@@ -1,6 +1,6 @@
 #!/bin/sh
 
-source /secure/restrictSSHusers.sh
-source /install/UFW.sh
-source /install/fail2ban.sh
-source /secure/yesPasswd.sh
+source /usr/local/bin/piTool/secure/restrictSSHusers.sh
+source /usr/local/bin/piTool/install/UFW.sh
+source /usr/local/bin/piTool/install/fail2ban.sh
+source /usr/local/bin/piTool/secure/yesPasswd.sh
